@@ -31,12 +31,11 @@ function voltar () {
 }
 
 //função 7
-fuction carregar() {
+function carregar() {
     alert("Página carregada")
 }
 
 
-alert(soma(5,2));
 
 let idade = prompt("Qual é a sua idade?");
 alert("Você tem " + idade+ " anos");

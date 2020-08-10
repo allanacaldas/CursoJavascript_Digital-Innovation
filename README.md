@@ -1,2 +1,1 @@
-# aula_javascript
-Aula de Javascript - Bootcamp Digital Innovation
+# Aula de Javascript - Bootcamp Digital Innovation
